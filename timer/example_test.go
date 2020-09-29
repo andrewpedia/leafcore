@@ -2,7 +2,7 @@ package timer_test
 
 import (
 	"fmt"
-	"leafcore/timer"
+	"github.com/name5566/leaf/timer"
 	"time"
 )
 

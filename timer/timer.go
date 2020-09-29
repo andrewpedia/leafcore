@@ -1,8 +1,8 @@
 package timer
 
 import (
-	"leafcore/conf"
-	"leafcore/log"
+	"github.com/name5566/leaf/conf"
+	"github.com/name5566/leaf/log"
 	"runtime"
 	"time"
 )

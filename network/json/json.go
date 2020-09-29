@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"leafcore/chanrpc"
-	"leafcore/log"
+	"github.com/name5566/leaf/chanrpc"
+	"github.com/name5566/leaf/log"
 	"reflect"
 )
 

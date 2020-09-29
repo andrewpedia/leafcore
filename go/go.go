@@ -2,8 +2,8 @@ package g
 
 import (
 	"container/list"
-	"leafcore/conf"
-	"leafcore/log"
+	"github.com/name5566/leaf/conf"
+	"github.com/name5566/leaf/log"
 	"runtime"
 	"sync"
 )

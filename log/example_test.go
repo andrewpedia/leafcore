@@ -1,7 +1,7 @@
 package log_test
 
 import (
-	"leafcore/log"
+	"github.com/name5566/leaf/log"
 	l "log"
 )
 

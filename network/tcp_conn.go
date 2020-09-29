@@ -1,7 +1,7 @@
 package network
 
 import (
-	"leafcore/log"
+	"github.com/name5566/leaf/log"
 	"net"
 	"sync"
 )
