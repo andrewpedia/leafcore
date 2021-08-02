@@ -182,7 +182,7 @@ func handleHello(args []interface{}) {
     // Send "Hello"
     m := args[0].(*msg.Hello)
     // The receiver
-    a := args[1].(gate.Agent)
+    a := args[1].(agent.Agent)
 
     // The content of the message
     log.Debug("hello %v", m.Name)

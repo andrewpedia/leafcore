@@ -5,7 +5,7 @@ import (
 	lconf "github.com/name5566/leaf/conf"
 	"github.com/name5566/leaf/server/conf"
 	"github.com/name5566/leaf/server/game"
-	"github.com/name5566/leaf/server/gate"
+	"github.com/name5566/leaf/server/gate/external"
 	"github.com/name5566/leaf/server/login"
 )
 
@@ -18,7 +18,7 @@ func main() {
 
 	leaf.Run(
 		game.Module,
-		gate.Module,
+		external.Module,
 		login.Module,
 	)
 }

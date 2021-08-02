@@ -1,9 +1,9 @@
 package internal
 
 import (
-	"github.com/name5566/leaf/gate"
 	"github.com/name5566/leaf/server/conf"
 	"github.com/name5566/leaf/server/game"
+	"github.com/name5566/leaf/server/gate"
 	"github.com/name5566/leaf/server/msg"
 )
 

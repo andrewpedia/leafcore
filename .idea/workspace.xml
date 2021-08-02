@@ -2,45 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e33aeaa-432e-49af-a3c7-f51f21402832" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/server/gate/external/external.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chanrpc/chanrpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/chanrpc/chanrpc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chanrpc/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/chanrpc/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster/cluster.go" beforeDir="false" afterPath="$PROJECT_DIR$/cluster/cluster.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/console/command.go" beforeDir="false" afterPath="$PROJECT_DIR$/console/command.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/console/console.go" beforeDir="false" afterPath="$PROJECT_DIR$/console/console.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/mongodb/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongodb/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/mongodb/mongodb.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/mongodb/mongodb.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gate/gate.go" beforeDir="false" afterPath="$PROJECT_DIR$/gate/gate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TUTORIAL_EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/TUTORIAL_EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TUTORIAL_ZH.md" beforeDir="false" afterPath="$PROJECT_DIR$/TUTORIAL_ZH.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate/agent.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gate/gate.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/go.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/go.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leaf.go" beforeDir="false" afterPath="$PROJECT_DIR$/leaf.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/log/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/module.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/module.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/skeleton.go" beforeDir="false" afterPath="$PROJECT_DIR$/module/skeleton.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/json/json.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/json/json.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/protobuf/protobuf.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/protobuf/protobuf.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/tcp_client.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/tcp_client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/tcp_conn.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/tcp_conn.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/tcp_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/tcp_server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/ws_client.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/ws_client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/ws_conn.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/ws_conn.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/ws_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/ws_server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme" beforeDir="false" afterPath="$PROJECT_DIR$/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recordfile/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/recordfile/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timer/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/timer/example_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timer/timer.go" beforeDir="false" afterPath="$PROJECT_DIR$/timer/timer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/example_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/game/internal/chanrpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/game/internal/chanrpc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/gate/external.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/gate/internal/module.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/gate/internal/module.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server" beforeDir="false" afterPath="$PROJECT_DIR$/server/server" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" url="file://C:/Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -54,25 +46,37 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server/gate" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\golang\leafcore\server\gate" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\golang\leafcore\server\gate\external" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="418" y="216" width="604" height="548" key="find.popup" timestamp="1601346546146">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="418" y="216" width="604" height="548" key="find.popup/-1920.-157.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1601346546146" />
   </component>
 </project>
